@@ -23,7 +23,7 @@ An interactive tool that uses AI to automatically generate flashcards from educa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AI-Powered-Flashcard-Generator.git
+git clone https://github.com/Abhay-2004/AI_Flashcard_Generator.git
 cd AI-Powered-Flashcard-Generator
 ```
 
@@ -119,34 +119,9 @@ pandas>=1.3.0
 fpdf2>=2.4.0
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## 👥 Support
-
-If you encounter any issues or have questions:
-
-- Open an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google's Gemini API for powering the AI capabilities
 - Streamlit for the wonderful web framework
 - The open-source community for various supporting libraries
 
----
-
-**Note**: Remember to replace placeholder text (your-username, your.email@example.com, etc.) with your actual information before using this README.
